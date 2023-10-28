@@ -20,4 +20,6 @@ python -m venv venv
 def main():
     sistema_academico = Pyro4.Proxy("PYRO:obj_1d023c24097a4eaeb715278dcdfa81b6@localhost:52149")
 
-<br> <br> <strong> <p> Se divirta.</p> </strong> 
+<br> <p> 4 - Inicialize o client.py com python </p> 
+
+<br> <strong> <p> Se divirta.</p> </strong> 
